@@ -9,8 +9,8 @@ I'm a passionate **[Front end web Developer]** with experience in **[technologie
 - 🌱 Currently learning: **[HTML, CSS, JAVASCRIPT]**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[HTML, CSS, JAVASCRIPT]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: **[jnaafo@gmail.com]**
+- ⚡ Fun fact: **I love solving puzzles and believe that learning to code is the ultimate puzzle adventure.**
 
 ## My Skills 🧠
 
@@ -35,5 +35,6 @@ I'm a passionate **[Front end web Developer]** with experience in **[technologie
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/jacob-naafo-898698354)
+- 
+- **[Twitter]**(https://x.com/j_naafo)
